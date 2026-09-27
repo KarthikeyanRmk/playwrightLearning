@@ -1,2 +1,1 @@
-# playwrightLearning
-playwrightLearning
+javaScriptLearning
