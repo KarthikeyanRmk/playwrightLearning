@@ -1,24 +1,27 @@
+//basic console printing on JS
 console.log("Hello team ")
 
-var firstname = "karthi"
-console.log( firstname)
-console.log(typeof firstname)
+// explain the data type of string 
+var firstName = "karthi"
+console.log(firstName)
+console.log(typeof firstName)
 
-var companyname = 'PDI'
-console.log( companyname)
-console.log(typeof companyname)
+// explain the data type of string 
+var companyName = 'PDI'
+console.log(companyName)
+console.log(typeof companyName)
 
-var mobilenumber = 123456
-console.log( mobilenumber)
-console.log(typeof mobilenumber)
+//explain the date type of the number 
+const mobileNumber = 123456
+console.log(mobileNumber)
+console.log(typeof mobileNumber)
 
-
+//explain data type of boolean
 var isAutomation = true
-console.log( isAutomation)
+console.log(isAutomation)
 console.log(typeof isAutomation)
 
- var hasPlaywright
-console.log( hasPlaywright)
+// explain data type of undefined
+var hasPlaywright
+console.log(hasPlaywright)
 console.log(typeof hasPlaywright)
-
-
